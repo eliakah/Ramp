@@ -1,0 +1,133 @@
+.nav-title a p{
+    letter-spacing: 10px;
+    font-weight: 900;
+    color: #f7b700;
+}
+
+.colored-section_2 h1{
+    text-transform: capitalize;
+    color: #633112;
+
+}
+.colored-section_3 h1{
+    text-transform: capitalize;
+    color: #633112;
+
+}
+.colored-section h1{
+    letter-spacing: 5px;
+    text-transform: capitalize;
+    color:#633112;
+
+}
+.colored-section_2{
+    letter-spacing: 5px;
+    color: #fff;
+    background: #f7b700;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.colored-section_3{
+    letter-spacing: 5px;
+    color: #fff;
+    background: #d2d2d2;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.colored-section{
+    letter-spacing: 5px;
+    font-family: Tahoma;
+    color: #633112;
+    background: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: 200;
+}
+
+.back-to-top:hover {
+    opacity: .6;
+
+}
+.back-to-top {
+
+
+    background: none;
+
+    margin: 0;
+
+    position: fixed;
+
+    bottom: 0;
+
+    right: 3%;
+
+    width: 70px;
+
+    height: 70px;
+
+    z-index: 100;
+
+}
+
+.sticky {
+    width: 100%;
+   opacity: .8;
+    position: fixed;
+    z-index: 10;
+}
+
+.space{
+    height: 50px;
+}
+
+.event {
+    padding: 1rem 1rem 1rem 0;
+    display: table; }
+
+.event-date {
+    width: 6rem;
+    margin: 0 auto 1rem;
+    display: table-cell;
+    width: auto; }
+.event-date .event-month {
+    margin: 0;
+    background: #eee;
+    padding: 0.5rem 2rem;
+    text-align: center; }
+.event-date .event-day {
+    margin: 0;
+    border: 1px solid #eee;
+    padding: 0 2rem;
+    text-align: center;
+    font-size: 2rem; }
+
+.event-desc {
+    padding: 0 0 0 1rem;
+    text-align: left;
+    display: table-cell;
+    vertical-align: top; }
+.event-desc .event-desc-header {
+    margin: 0 0 0.5rem 0;
+    padding: 0; }
+.event-desc .event-desc-detail {
+    margin: 0 0 0.25rem;
+    padding: 0; }
+.event-desc .event-desc-time {
+    font-weight: bold; }
+.event-desc .rsvp.button {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin: 0; }
+
+
+.img-circle {
+    height: 150px;
+    width: 150px;
+}
+.holder{
+    height: 500px;
+    width: 900px;
+    overflow: hidden;
+}
+
+
